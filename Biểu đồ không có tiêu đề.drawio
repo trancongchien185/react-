@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Trang-1" id="-_BxKJImFCmeKllsy5C5">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-1" value="người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-5" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="294" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="FgMHfrrdDGFYDDlE3FSo-5">
+          <mxGeometry x="0.2964" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-6" value="tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="300" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="304" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="254" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-21" value="xem trang chủ" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="230" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="314" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="210" />
+              <mxPoint x="210" y="200" />
+              <mxPoint x="264" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-23" value="đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="160" width="216" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="314" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="130" />
+              <mxPoint x="264" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMHfrrdDGFYDDlE3FSo-25" value="đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="90" width="216" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
